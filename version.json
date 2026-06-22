@@ -1,5 +1,5 @@
 {
-  "tool_version": 11.0,
-  "tool_update_url": "https://raw.githubusercontent.com/dodangban0092-cyber/thuviennoithatcnc/refs/heads/main/main_v11_cap2_2.rb",
-  "message": "Có bản nâng cấp V11. Vui lòng cập nhật để dùng thư viện mới."
+  "tool_version": 10.0,
+  "tool_update_url": "https://raw.githubusercontent.com/dodangban0092-cyber/thuviennoithatcnc/refs/heads/main/main_baomat.rb",
+  "message": "Phiên bản hiện tại đang ổn định."
 }
