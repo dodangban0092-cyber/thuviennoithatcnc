@@ -22,7 +22,7 @@
 
   "library_manifest_url": "https://raw.githubusercontent.com/dodangban0092-cyber/thuviennoithatcnc/refs/heads/main/manifest_library_v10.json",
 
-  "notice_download_confirm": "Bạn có muốn tiếp tục tải và cài thư viện mới nhất không? Trong quá trình tải/cài đặt, vui lòng KHÔNG tắt SketchUp.",
+  "notice_download_confirm": "Bạn có muốn tiếp tục tải và cài thư viện mới nhất không? Trong quá trình tải/cài đặt, vui lòng KHÔNG ĐƯỢC tắt SketchUp.",
   "notice_downloading_library": "Đang tải thư viện, xin đừng tắt phần mềm...",
   "notice_locked_model": "Model này chỉ dành cho tài khoản VIP/PRO.",
   "notice_update_plugin": "Có bản cập nhật phần mềm mới. Bạn có muốn cập nhật không?"
