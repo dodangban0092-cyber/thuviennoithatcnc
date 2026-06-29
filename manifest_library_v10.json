@@ -1,18 +1,18 @@
 {
   "library_name": "ThuVienNoiThatCNC",
-  "version": "2026.06.27",
+  "version": "2026.06.29",
   "require_tool_version": 10.0,
   "mode": "public_with_locked_models",
   "note": "Free/VIP dùng chung thư viện. Model VIP được khóa bằng file .locked.",
   "packages": [
     {
       "id": "public_001",
-      "name": "library_v2026.06.27_public_001.zip",
+      "name": "library_v2026.06.29_public_001.zip",
       "channel": "public",
-      "size": 53791701,
-      "sha256": "b4bd2a02a32f1a99411fdf3647b838f5a0af49724180cebf7b5805e19f94aed3",
-      "url": "https://github.com/dodangban0092-cyber/thuviennoithatcnc/releases/download/v2026.06.27/library_v2026.06.27_public_001.zip",
-      "path": "v2026.06.27/library_v2026.06.27_public_001.zip"
+      "size": 59493488,
+      "sha256": "c9b826871da7575b4c4b603439d4add39b8fa31cee380a66eeb736b5c93b1943",
+      "url": "https://github.com/dodangban0092-cyber/thuviennoithatcnc/releases/download/v2026.06.29/library_v2026.06.29_public_001.zip",
+      "path": "v2026.06.29/library_v2026.06.29_public_001.zip"
     }
   ]
 }
