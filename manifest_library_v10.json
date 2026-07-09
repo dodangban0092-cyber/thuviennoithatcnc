@@ -1,18 +1,18 @@
 {
   "library_name": "ThuVienNoiThatCNC",
-  "version": "2026.07.08",
+  "version": "2026.07.09",
   "require_tool_version": 10.7,
   "mode": "public_with_locked_models",
-  "note": "Bản thư viện này yêu cầu học viên cài Thư Viện Nội Thất 4.0 V10.7 trở lên. Khi cập nhật, thư viện cũ trên máy sẽ được thay bằng bản thư viện mới.",
+  "note": "Free/Pro dùng chung thư viện. Model Pro được khóa bằng file .locked.",
   "packages": [
     {
       "id": "public_001",
-      "name": "library_v2026.07.08_public_001.zip",
+      "name": "library_v2026.07.09_public_001.zip",
       "channel": "public",
-      "size": 71787830,
-      "sha256": "f75f143fe19ebb5e4ee50c214c140189672e069317b6df8bd0947a80914708b6",
-      "url": "https://github.com/dodangban0092-cyber/thuviennoithatcnc/releases/download/v2026.07.08/library_v2026.07.08_public_001.zip",
-      "path": "v2026.07.08/library_v2026.07.08_public_001.zip"
+      "size": 1015653,
+      "sha256": "6720bbc220977ffb8545cb576ce4f16f993c5881535c2c39fa411447817aa812",
+      "url": "https://github.com/dodangban0092-cyber/thuviennoithatcnc/releases/download/v2026.07.09/library_v2026.07.09_public_001.zip",
+      "path": "v2026.07.09/library_v2026.07.09_public_001.zip"
     }
   ]
 }
