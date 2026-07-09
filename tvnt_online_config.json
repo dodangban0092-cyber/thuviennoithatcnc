@@ -1,5 +1,5 @@
 {
-  "config_version": "2026.07.09.1",
+  "config_version": "2026.07.09.2",
 
   "app_title": "THƯ VIỆN NỘI THẤT 4.0",
   "banner_text": "Đào tạo Mở xưởng Nội Thất 4.0, sử dụng phần mềm SketchUp ra file CNC",
@@ -39,7 +39,7 @@
   "min_required_tool_version": 10.7,
   "library_manifest_url": "https://raw.githubusercontent.com/dodangban0092-cyber/thuviennoithatcnc/refs/heads/main/manifest_library_v10.json",
 
-  "notice_download_confirm": "Bạn có muốn cập nhật và cài lại toàn bộ thư viện mới nhất không?\n\nThư viện cũ trên máy sẽ được thay bằng bản thư viện mới. Trong quá trình cập nhật, vui lòng KHÔNG tắt SketchUp.",
+  "notice_download_confirm": "Bạn đang cập nhật bản thư viện mới nhất, vui lòng không thao tác gì thêm.",
   "notice_downloading_library": "Bạn đang cập nhật bản thư viện mới nhất, vui lòng không thao tác gì thêm.",
   "notice_locked_model": "Model này chỉ dành cho tài khoản Pro.",
   "notice_update_plugin": "Bạn cần cài bản Thư Viện Nội Thất 4.0 mới nhất để tải thư viện mới."
