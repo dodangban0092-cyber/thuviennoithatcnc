@@ -1,9 +1,9 @@
 {
   "library_name": "ThuVienNoiThatCNC",
   "version": "2026.07.08",
-  "require_tool_version": 10.0,
+  "require_tool_version": 10.7,
   "mode": "public_with_locked_models",
-  "note": "Free/VIP dùng chung thư viện. Model VIP được khóa bằng file .locked.",
+  "note": "Bản thư viện này yêu cầu học viên cài Thư Viện Nội Thất 4.0 V10.7 trở lên. Khi cập nhật, thư viện cũ trên máy sẽ được thay bằng bản thư viện mới.",
   "packages": [
     {
       "id": "public_001",
