@@ -12,8 +12,8 @@
       "channel": "public",
       "package_format": "nt4lib_v2",
       "required_client_release": "NT40-CLIENT-10.9-RESET-R2",
-      "size": 5694040,
-      "sha256": "37c41d154bb28a58a1c91a36cb33952c3a2f383fba93b079e0233b005bb862e9",
+      "size": 5692392,
+      "sha256": "cd7e9f2cdcde66aa50cf8b493177357b5c4c57740d33cab8077fe4d74f33d9fb",
       "url": "https://github.com/dodangban0092-cyber/thuviennoithatcnc/releases/download/v2026.07.16/library_v2026.07.16_public_001.nt4lib",
       "path": "v2026.07.16/library_v2026.07.16_public_001.nt4lib"
     }
