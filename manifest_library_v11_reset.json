@@ -1,0 +1,21 @@
+{
+  "library_name": "ThuVienNoiThatCNC",
+  "version": "2026.07.16",
+  "require_tool_version": 11.0,
+  "required_client_release": "NT40-CLIENT-10.9-RESET-R2",
+  "mode": "encrypted_required_client",
+  "note": "Toàn bộ package dùng định dạng NT4LIB2. Bản plugin cũ không thể giải nén; model Pro tiếp tục được khóa theo ID máy.",
+  "packages": [
+    {
+      "id": "public_001",
+      "name": "library_v2026.07.16_public_001.nt4lib",
+      "channel": "public",
+      "package_format": "nt4lib_v2",
+      "required_client_release": "NT40-CLIENT-10.9-RESET-R2",
+      "size": 5694040,
+      "sha256": "c251869ad669ce358a309345d93c896ae0d66c3518c07fa59c91b3bad2e35e22",
+      "url": "https://github.com/dodangban0092-cyber/thuviennoithatcnc/releases/download/v2026.07.16/library_v2026.07.16_public_001.nt4lib",
+      "path": "v2026.07.16/library_v2026.07.16_public_001.nt4lib"
+    }
+  ]
+}
