@@ -1,23 +1,23 @@
 {
   "library_name": "ThuVienNoiThatCNC",
-  "version": "2026.07.19",
+  "version": "2026.07.26",
   "require_tool_version": 11.0,
   "required_client_release": "NT40-CLIENT-10.9-RESET-R2",
   "mode": "encrypted_required_client",
   "note": "Toàn bộ package dùng định dạng NT4LIB2; module có bán được kiểm tra theo ID máy và mã mua model.",
   "blacklist_file": "danhsachsodenhocvien.json",
-  "blacklist_url": "https://github.com/dodangban0092-cyber/thuviennoithatcnc/releases/download/v2026.07.19/danhsachsodenhocvien.json",
+  "blacklist_url": "https://github.com/dodangban0092-cyber/thuviennoithatcnc/releases/download/v2026.07.26/danhsachsodenhocvien.json",
   "packages": [
     {
       "id": "public_001",
-      "name": "library_v2026.07.19_public_001.nt4lib",
+      "name": "library_v2026.07.26_public_001.nt4lib",
       "channel": "public",
       "package_format": "nt4lib_v2",
       "required_client_release": "NT40-CLIENT-10.9-RESET-R2",
-      "size": 47795240,
-      "sha256": "8158832bf53e69a38a34a956306ff8b806f394a2e23948ca6362256495f57173",
-      "url": "https://github.com/dodangban0092-cyber/thuviennoithatcnc/releases/download/v2026.07.19/library_v2026.07.19_public_001.nt4lib",
-      "path": "v2026.07.19/library_v2026.07.19_public_001.nt4lib"
+      "size": 64019832,
+      "sha256": "2031038916cc814c8316faf418f237d96c06d9ee5d28f1f2cd35ed24a76cc3a4",
+      "url": "https://github.com/dodangban0092-cyber/thuviennoithatcnc/releases/download/v2026.07.26/library_v2026.07.26_public_001.nt4lib",
+      "path": "v2026.07.26/library_v2026.07.26_public_001.nt4lib"
     }
   ]
 }
